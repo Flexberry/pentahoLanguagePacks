@@ -1,16 +1,16 @@
 {
-    "appTitle": "Klingon Language Pack Installer",
-    "appWelcomeMessage": "This plugin installs language definitions for the Klingon language in Pentaho",
-    "language": "Klingon",
-    "languageCode": "tlh",
-    "pentahoVersion": "6.1.0",
+    "appTitle": "Russian Language Pack Installer",
+    "appWelcomeMessage": "This plugin installs language definitions for the russian language in Pentaho",
+    "language": "Russian",
+    "languageCode": "ru",
+    "pentahoVersion": "7.1.0",
     "maturity": {
         "lane": "Community",
         "phase": "2"
     },
     "maintainer": {
-        "name": "Marc Okrand",
-        "email": "Marc.Okrand@gmail.com",
+        "name": "Alexey Kostarev",
+        "email": "kaf@nevod.ru",
         "img": "",
         "url": "http:\/\/www.google.com"
     },
